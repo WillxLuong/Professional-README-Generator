@@ -47,7 +47,7 @@ For questions, reach out to us on:
 
 ### Demo
 
-Watch the walkthrough video demonstrating the functionality of the application [here]().
+Watch the walkthrough video demonstrating the functionality of the application [here](https://drive.google.com/file/d/1LBEgaaoUe3g7lYNLC6HzUZEEshrbpzBd/view).
 
 ---
 
