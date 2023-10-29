@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Professional README Generator
 
 Generate professional README files for your projects with ease using our command-line application.
@@ -55,3 +56,6 @@ Watch the walkthrough video demonstrating the functionality of the application [
 
 ---
 
+=======
+Professional-README-Generator
+>>>>>>> df7a25d9228349d3e3279b997c0893a15fa982e9
